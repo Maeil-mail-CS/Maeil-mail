@@ -11,16 +11,24 @@
 - 각 질문마다 아래 형식으로 작성
   
 ```md
-🔗 질문 링크: [Filter와 Interceptor의 차이점을 말해주세요.](https://www.maeil-mail.kr/question/10)
+<details>
+<summary> 
+질문내용
+</summary>
+
+🔗 질문 링크: [질문내용](질문링크)
 
 ✅ 답변 내용:
+<pre>
 
-💡 꼬리 질문:
-- 꼬리 질문1
-- 꼬리 질문2
-
+</pre>
+  
 ✨ 질문에 대한 보충 학습 내용:
+<pre>
+
+</pre>
 
 👀 참고 링크:
-
+  
+</details>
 ```
