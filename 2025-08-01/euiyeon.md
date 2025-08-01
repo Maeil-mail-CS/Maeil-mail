@@ -47,7 +47,9 @@ HTTP 메서드에서 멱등성이란 무엇인가요?
 </pre>
 
 👀 참고 링크: 
+
 [개쩌는 의연공쥬의 블로그 -  HTTP / REST/ GraphQL](https://velog.io/@kiteof_park/Web-HTTP%EC%99%80-REST%EC%99%80-GraphQL%EA%B9%8C%EC%A7%80-%EB%AA%A8%EB%91%90-%EC%8C%88%EC%8B%B8%EB%A8%B9%EA%B8%B0)
+
 [토스페이먼츠 - 멱등성](https://velog.io/@tosspayments/%EB%A9%B1%EB%93%B1%EC%84%B1%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
   
 </details>
