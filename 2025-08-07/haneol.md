@@ -3,7 +3,7 @@
 Spring과 Spring Boot의 차이를 말해주세요.
 </summary>
 
-🔗 질문 링크: [CORS란 무엇인가요?](https://www.maeil-mail.kr/question/24)
+🔗 질문 링크: [Spring과 Spring Boot의 차이를 말해주세요.](https://www.maeil-mail.kr/question/24)
 
 # ✅ 답변 내용:
 <pre>
