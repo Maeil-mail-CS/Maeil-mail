@@ -30,7 +30,7 @@
   적절한 트랜잭션 격리수준을 선택해야 합니다.
 </pre>
 
-💡 꼬리 질문2: Dirty Read, Phantom Read, Non-Repeatable Read에 대해 설명해주세요
+💡 꼬리 질문2: `Dirty Read`, `Phantom Read`, `Non-Repeatable Read`에 대해 설명해주세요
 <pre>
   1. Dirty Read :
   더럽게 읽힌다는 뜻으로, 읽었던 값이 변경되는 문제입니다.
