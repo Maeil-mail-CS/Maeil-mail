@@ -1,9 +1,9 @@
 <details>
 <summary> 
-질문내용
+REST란 무엇인가요?
 </summary>
 
-🔗 질문 링크: [질문내용](질문링크)
+🔗 질문 링크: [REST란 무엇인가요?](https://www.maeil-mail.kr/question/122)
 
 ✅ 답변 내용:
 <pre>
