@@ -1,14 +1,18 @@
 <details>
-<summary> 
-질문내용
+<summary>
+HTTP/1.1과 HTTP/2.0에 대해서 설명해주세요.
 </summary>
 
-🔗 질문 링크: [질문내용](질문링크)
+🔗 질문 링크: [HTTP/1.1과 HTTP/2.0에 대해서 설명해주세요.](https://www.maeil-mail.kr/question/130)
 
 ✅ 답변 내용:
 <pre>
-답변
+
+
 </pre>
+
+
+
 
 💡 꼬리 질문1: 꼬리 질문 내용
 <pre>
